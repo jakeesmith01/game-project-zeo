@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervville-SC.spritefont","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Baskervville-SC.xnb","FontDescriptionProcessor","SpriteFontContent",2018,136226,0.1964384
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervvillle-SC-Small.spritefont","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Baskervvillle-SC-Small.xnb","FontDescriptionProcessor","SpriteFontContent",2018,37922,0.0225796
+"/home/jake/ksu/projects/cis580/gameproj1/Content/CarIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/CarIdle.xnb","TextureProcessor","Texture2DContent",25958,786517,0.1950612
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManAttack.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Man/ManAttack.xnb","TextureProcessor","Texture2DContent",21700,327765,0.0186208
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Man/ManIdle.xnb","TextureProcessor","Texture2DContent",20808,393301,0.009627
+"/home/jake/ksu/projects/cis580/gameproj1/Content/postapocalypse1.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/postapocalypse1.xnb","TextureProcessor","Texture2DContent",147939,8294485,0.1723903
+"/home/jake/ksu/projects/cis580/gameproj1/Content/WomanIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/WomanIdle.xnb","TextureProcessor","Texture2DContent",20775,393301,0.0104912
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieDie.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Zombie/ZombieDie.xnb","TextureProcessor","Texture2DContent",20571,184405,0.0056951
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieWalk.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Zombie/ZombieWalk.xnb","TextureProcessor","Texture2DContent",21327,294997,0.0067653

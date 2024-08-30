@@ -1,0 +1,11 @@
+CarIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/free-old-cars-pixel-art-asset-pack/
+
+PostApocalylpse.png -> from CraftPix.net -> https://craftpix.net/freebies/free-post-apocalyptic-pixel-art-game-backgrounds/
+
+Man/ManIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/city-man-pixel-art-character-sprite-sheets/?num=1&count=149&sq=city%20man&pos=3 
+
+Man/ManAttack.png -> from CraftPix.net -> https://craftpix.net/freebies/city-man-pixel-art-character-sprite-sheets/?num=1&count=149&sq=city%20man&pos=3
+
+Zombie/ZombieIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/free-zombie-sprite-sheet-pack-pixel-art/
+
+Zombie/ZombieDie.png -> from CraftPix.net -> https://craftpix.net/freebies/free-zombie-sprite-sheet-pack-pixel-art/

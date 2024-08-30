@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervville-SC.spritefont","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Baskervville-SC.xnb","FontDescriptionProcessor","SpriteFontContent",2018,136226,0.3234253
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervvillle-SC-Small.spritefont","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Baskervvillle-SC-Small.xnb","FontDescriptionProcessor","SpriteFontContent",2018,37922,0.31796
+"/home/jake/ksu/projects/cis580/gameproj1/Content/CarIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/CarIdle.xnb","TextureProcessor","Texture2DContent",25958,786517,0.2016073
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManAttack.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Man/ManAttack.xnb","TextureProcessor","Texture2DContent",21700,327765,0.1109306
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Man/ManIdle.xnb","TextureProcessor","Texture2DContent",20808,393301,0.0088243
+"/home/jake/ksu/projects/cis580/gameproj1/Content/postapocalypse1.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/postapocalypse1.xnb","TextureProcessor","Texture2DContent",147939,8294485,0.2663435
+"/home/jake/ksu/projects/cis580/gameproj1/Content/WomanIdle.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/WomanIdle.xnb","TextureProcessor","Texture2DContent",20775,393301,0.0139535
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieDie.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Zombie/ZombieDie.xnb","TextureProcessor","Texture2DContent",20571,184405,0.1260752
+"/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieWalk.png","/home/jake/ksu/projects/cis580/gameproj1/Content/bin/DesktopGL/Content/Zombie/ZombieWalk.xnb","TextureProcessor","Texture2DContent",21327,294997,0.0144822

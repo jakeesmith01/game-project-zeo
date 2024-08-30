@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervville-SC.spritefont</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Baskervvillle-SC-Small.spritefont</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/CarIdle.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManAttack.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Man/ManIdle.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/postapocalypse1.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/WomanIdle.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieDie.png</File>
+    <File>/home/jake/ksu/projects/cis580/gameproj1/Content/Zombie/ZombieWalk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
