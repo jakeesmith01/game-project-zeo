@@ -9,3 +9,5 @@ Man/ManAttack.png -> from CraftPix.net -> https://craftpix.net/freebies/city-man
 Zombie/ZombieIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/free-zombie-sprite-sheet-pack-pixel-art/
 
 Zombie/ZombieDie.png -> from CraftPix.net -> https://craftpix.net/freebies/free-zombie-sprite-sheet-pack-pixel-art/
+
+BaskervvilleSC-Regular -> from Google Fonts -> https://fonts.google.com/specimen/Baskervville -> Under OFL, licensing information can be found in Content/Baskervville_SC/OFL.txt
