@@ -10,6 +10,8 @@ Zombie/ZombieIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/free
 
 Zombie/ZombieDie.png -> from CraftPix.net -> https://craftpix.net/freebies/free-zombie-sprite-sheet-pack-pixel-art/
 
+WomanIdle.png -> from CraftPix.net -> https://craftpix.net/freebies/free-city-trader-character-sprite-sheets-pixel-art/?num=1&count=54&sq=city%20trader&pos=2
+
 ** ALL ASSETS ABOVE THIS POINT ARE FREEBIES FROM CRAFTPIX.NET, LICENSING INFORMATION CAN BE FOUND IN 'License.txt' OR AT https://craftpix.net/files-license **
 
 BaskervvilleSC-Regular -> from Google Fonts -> https://fonts.google.com/specimen/Baskervville -> Under OFL, licensing information can be found in Content/Baskervville_SC/OFL.txt
